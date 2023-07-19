@@ -7,10 +7,9 @@ The algorithm is implemented in [Pytorch](https://pytorch.org/) and the configur
 
 ## TODO
 
-- [ ] Implement the kernel function
-- [ ] Implement the spike convolution layer with kernel function
-- [ ] Implement the auto diff w.r.t. the kernel function
-- [ ] Test, and make sure the algorithm can converge
+- [ ] Implement the kernel-weight metho
+- [ ] Implement the kernel-attention method
+- [ ] Implement the ... undergoing method 
 
 ## Usage
 To run the code, you need to install the dependencies first:
